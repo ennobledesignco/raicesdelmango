@@ -1,0 +1,9 @@
+# Allow access to git-webhook.php
+<Files "git-webhook.php">
+    Require all granted
+</Files>
+
+# Disable rewrites for git-webhook.php
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/git-webhook\.php$
+RewriteRule ^.*$ - [L]

@@ -1,0 +1,1049 @@
+[18-Dec-2024 17:11:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ennobled_usuario'@'localhost' (using password: YES) in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php:9
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php(9): mysqli->__construct('localhost', 'ennobled_usuari...', Object(SensitiveParameterValue), 'ennobled_crm_ma...')
+#1 /home2/ennobled/app.ennobleagency.com/crm_mango/test_connection.php(2): include('/home2/ennobled...')
+#2 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php on line 9
+[18-Dec-2024 17:11:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ennobled_usuario'@'localhost' (using password: YES) in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php:9
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php(9): mysqli->__construct('localhost', 'ennobled_usuari...', Object(SensitiveParameterValue), 'ennobled_crm_ma...')
+#1 /home2/ennobled/app.ennobleagency.com/crm_mango/test_connection.php(2): include('/home2/ennobled...')
+#2 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php on line 9
+[18-Dec-2024 17:11:26 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ennobled_usuario'@'localhost' (using password: YES) in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php:9
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php(9): mysqli->__construct('localhost', 'ennobled_usuari...', Object(SensitiveParameterValue), 'ennobled_crm_ma...')
+#1 /home2/ennobled/app.ennobleagency.com/crm_mango/test_connection.php(2): include('/home2/ennobled...')
+#2 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php on line 9
+[18-Dec-2024 17:13:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ennobled_usuario'@'localhost' (using password: YES) in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php:9
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php(9): mysqli->__construct('localhost', 'ennobled_usuari...', Object(SensitiveParameterValue), 'ennobled_crm_ma...')
+#1 /home2/ennobled/app.ennobleagency.com/crm_mango/test_connection.php(2): include('/home2/ennobled...')
+#2 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/php/config.php on line 9
+[18-Dec-2024 17:57:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:39
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(39): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 39
+[18-Dec-2024 17:57:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:39
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(39): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 39
+[18-Dec-2024 17:57:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:39
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(39): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 39
+[18-Dec-2024 17:57:54 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php:73
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php(73): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php on line 73
+[18-Dec-2024 17:58:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:39
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(39): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 39
+[18-Dec-2024 17:59:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:01:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:01:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:01:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:03:25 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:03:41 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php:73
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php(73): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php on line 73
+[18-Dec-2024 18:09:05 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:11:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:11:11 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:11:24 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:40
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(40): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 40
+[18-Dec-2024 18:11:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:11:52 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:11:53 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php:73
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php(73): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php on line 73
+[18-Dec-2024 18:11:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:21:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:22:21 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:22:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:22:58 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:23:11 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:24:43 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:26:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:30:13 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 18:30:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php:73
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php(73): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php on line 73
+[18-Dec-2024 18:30:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php:73
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php(73): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados.php on line 73
+[18-Dec-2024 18:31:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.empleados' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:41
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(41): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 41
+[18-Dec-2024 19:30:27 America/Mexico_City] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 41
+[18-Dec-2024 19:30:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 41
+[18-Dec-2024 19:32:17 America/Mexico_City] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:32:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:32:20 America/Mexico_City] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:32:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:32:22 America/Mexico_City] PHP Warning:  include(sidebar.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:32:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 19
+[18-Dec-2024 19:43:43 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 19:43:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 19:44:46 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 19:44:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 19:44:54 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 19:44:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 59
+[18-Dec-2024 20:11:07 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 20:11:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 20:13:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 57
+[18-Dec-2024 20:13:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 57
+[18-Dec-2024 20:13:42 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:13:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:13:46 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 57
+[18-Dec-2024 20:13:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 57
+[18-Dec-2024 20:13:55 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:13:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:14:00 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:14:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:14:03 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:14:03 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:16:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:16:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[18-Dec-2024 20:16:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 20:16:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 20:19:05 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 20:19:05 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 20:20:00 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 20:20:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 20:20:04 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_agregar.php on line 39
+[18-Dec-2024 20:20:04 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_agregar.php on line 39
+[18-Dec-2024 20:20:13 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_agregar.php on line 39
+[18-Dec-2024 20:20:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_agregar.php on line 39
+[18-Dec-2024 20:20:17 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 20:20:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 20:21:17 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 20:21:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 20:21:46 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:21:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:49 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:49 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:54 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:24:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:09 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:12 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:12 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_editar_detalle.php on line 52
+[18-Dec-2024 20:28:33 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_agregar.php on line 39
+[18-Dec-2024 20:28:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_agregar.php on line 39
+[18-Dec-2024 20:28:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_agregar.php on line 39
+[18-Dec-2024 20:28:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_agregar.php on line 39
+[18-Dec-2024 20:28:45 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:45 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:28:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ennobled_crm_mango`.`empleados`, CONSTRAINT `empleados_ibfk_2` FOREIGN KEY (`departamento_id`) REFERENCES `departamentos` (`id`)) in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php:18
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php on line 18
+[18-Dec-2024 20:28:48 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`ennobled_crm_mango`.`empleados`, CONSTRAINT `empleados_ibfk_2` FOREIGN KEY (`departamento_id`) REFERENCES `departamentos` (`id`)) in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php:18
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php(18): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos_eliminar.php on line 18
+[18-Dec-2024 20:30:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:30:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:34:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:34:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 20:37:24 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 20:37:24 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 20:37:27 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 20:37:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 20:39:55 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 20:39:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 20:40:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 20:40:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 20:40:07 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 20:40:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 20:51:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 20:51:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:01:06 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:01:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:01:15 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:01:15 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:42:12 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:42:12 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:42:15 America/Mexico_City] PHP Parse error:  Unclosed '(' on line 56 in /home2/ennobled/app.ennobleagency.com/crm_mango/recepciones_editar.php on line 62
+[18-Dec-2024 21:42:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:42:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:43:29 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:43:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 21:44:21 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepciones_agregar.php on line 182
+[18-Dec-2024 21:44:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepciones_agregar.php on line 182
+[18-Dec-2024 21:48:11 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php on line 108
+[18-Dec-2024 21:48:11 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php on line 108
+[18-Dec-2024 21:51:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 21:55:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 21:55:49 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 21:55:49 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 21:56:00 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php on line 79
+[18-Dec-2024 21:56:06 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php on line 79
+[18-Dec-2024 21:57:23 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos_agregar.php on line 105
+[18-Dec-2024 21:57:23 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos_agregar.php on line 105
+[18-Dec-2024 22:04:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:04:10 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:04:32 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/productos_agregar.php on line 68
+[18-Dec-2024 22:04:32 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/productos_agregar.php on line 68
+[18-Dec-2024 22:04:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:04:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.descripcion' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php:36
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php(36): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php on line 36
+[18-Dec-2024 22:04:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:04:44 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:05:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:08:23 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 22:08:23 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 22:08:59 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 22:08:59 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[18-Dec-2024 22:09:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_gasto.php on line 49
+[18-Dec-2024 22:09:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_gasto.php on line 49
+[18-Dec-2024 22:09:05 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:09:05 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:09:07 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_agregar.php on line 43
+[18-Dec-2024 22:09:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_agregar.php on line 43
+[18-Dec-2024 22:09:13 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:09:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:09:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:09:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:10:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[18-Dec-2024 22:10:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:10:54 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:10:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:11:08 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:11:12 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:11:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:11:28 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:11:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:11:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:12:20 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/calidades.php on line 49
+[18-Dec-2024 22:12:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/calidades.php on line 49
+[18-Dec-2024 22:13:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 22:13:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 22:14:11 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 22:14:11 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 22:14:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:14:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:14:46 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/calidades.php on line 49
+[18-Dec-2024 22:14:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/calidades.php on line 49
+[18-Dec-2024 22:15:09 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[18-Dec-2024 22:15:10 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[18-Dec-2024 22:15:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:15:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:15:39 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:16:10 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:16:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:16:20 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[18-Dec-2024 22:16:24 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[18-Dec-2024 22:16:24 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[18-Dec-2024 22:16:31 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[18-Dec-2024 22:17:57 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[18-Dec-2024 22:18:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:22
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(22): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 22
+[18-Dec-2024 22:18:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:22
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(22): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 22
+[18-Dec-2024 22:18:58 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:22
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(22): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 22
+[18-Dec-2024 22:21:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:14
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(14): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 14
+[18-Dec-2024 22:22:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 62
+[18-Dec-2024 22:26:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.ingresos' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:24
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(24): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 24
+[18-Dec-2024 22:26:20 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ennobled_crm_mango.ingresos' doesn't exist in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php:24
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/index.php(24): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/index.php on line 24
+[18-Dec-2024 22:31:56 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:31:56 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:32:22 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:32:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:33:02 America/Mexico_City] PHP Parse error:  Unclosed '(' on line 56 in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_editar.php on line 62
+[18-Dec-2024 22:33:23 America/Mexico_City] PHP Parse error:  Unclosed '(' on line 56 in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_editar.php on line 62
+[18-Dec-2024 22:33:57 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:33:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:34:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:34:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:34:22 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:34:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:34:34 America/Mexico_City] PHP Parse error:  Unclosed '(' on line 56 in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_editar.php on line 62
+[18-Dec-2024 22:34:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:34:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:34:44 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:34:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:35:21 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:35:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:35:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:35:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:35:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php:33) in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 34
+[18-Dec-2024 22:35:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:35:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:36:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:36:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:36:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:36:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:36:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:40 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php:33) in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 34
+[18-Dec-2024 22:36:42 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:36:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[18-Dec-2024 22:36:43 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:36:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[18-Dec-2024 22:36:50 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:50 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:54 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:36:57 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:36:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:37:31 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 22:37:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[18-Dec-2024 22:37:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:37:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 22:38:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:38:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:38:49 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fecha' in 'order clause' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php:26
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php(26): mysqli->query('SELECT v.*, h.n...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 26
+[18-Dec-2024 22:39:27 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:39:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:39:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:39:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:41:06 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:41:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:41:53 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:41:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:42:29 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:42:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:43:28 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fecha' in 'order clause' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php:33
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php(33): mysqli->query('SELECT v.*, h.n...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 33
+[18-Dec-2024 22:44:27 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fecha' in 'order clause' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php:33
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php(33): mysqli->query('SELECT v.*, h.n...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 33
+[18-Dec-2024 22:44:29 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:44:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:44:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php on line 79
+[18-Dec-2024 22:44:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos_agregar.php on line 105
+[18-Dec-2024 22:44:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos_agregar.php on line 105
+[18-Dec-2024 22:44:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sale_date' in 'order clause' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php:27
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php(27): mysqli->query('SELECT v.*, h.n...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 27
+[18-Dec-2024 22:45:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:45:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[18-Dec-2024 22:46:15 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'sale_date' in 'order clause' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php:27
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php(27): mysqli->query('SELECT v.*, h.n...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 27
+[18-Dec-2024 22:46:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:46:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:46:42 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:46:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:47:18 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 22:47:18 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 22:47:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 22:47:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 22:47:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:47:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:47:46 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 22:47:57 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 22:47:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 22:48:16 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:48:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:50:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:50:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:52:17 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:52:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 115
+[18-Dec-2024 22:52:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:52:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:54:16 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 22:54:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:02:06 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:02:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:06:20 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 23:06:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 23:06:45 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 23:07:32 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:07:32 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:07:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 23:07:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[18-Dec-2024 23:07:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 23:07:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[18-Dec-2024 23:07:40 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 23:09:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[18-Dec-2024 23:10:57 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[18-Dec-2024 23:11:37 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 23:12:58 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[18-Dec-2024 23:13:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[18-Dec-2024 23:13:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:13:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:14:06 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:14:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:14:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:14:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:14:49 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[18-Dec-2024 23:15:05 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:15:05 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:15:08 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:15:08 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:15:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:15:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:15:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 71
+[18-Dec-2024 23:15:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 71
+[18-Dec-2024 23:15:49 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:15:49 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:16:10 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:16:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:17:48 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:17:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:17:56 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:17:56 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:18:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:18:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:20:13 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:33 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[18-Dec-2024 23:20:34 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:34 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 182
+[18-Dec-2024 23:20:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 23:20:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/departamentos.php on line 51
+[18-Dec-2024 23:20:46 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 23:20:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[18-Dec-2024 23:20:49 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 23:20:49 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[18-Dec-2024 23:21:20 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:21:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:21:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:33 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:50 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:21:50 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:22:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:22:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:22:48 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:22:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:23:59 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:23:59 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:24:04 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:24:04 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 167
+[18-Dec-2024 23:24:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:24:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:24:44 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:24:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:25:22 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ennobled_crm_mango`.`recepciones`, CONSTRAINT `recepciones_ibfk_2` FOREIGN KEY (`centro_abastecimiento_id`) REFERENCES `centros_abastecimiento` (`id`)) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php:156
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php(156): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 156
+[18-Dec-2024 23:25:30 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:25:30 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:25:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:25:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 167
+[18-Dec-2024 23:26:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:26:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 72
+[18-Dec-2024 23:26:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:26:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:26:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:26:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:26:44 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:26:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 72
+[18-Dec-2024 23:28:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:28:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:28:10 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 71
+[18-Dec-2024 23:28:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 71
+[18-Dec-2024 23:36:43 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:36:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:38:52 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:38:52 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:38:55 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:38:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:39:04 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:39:04 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:39:07 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:39:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:39:10 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:39:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:39:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'calidad_id' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php:27
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php(27): mysqli->prepare('INSERT INTO not...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 27
+[18-Dec-2024 23:43:30 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:43:30 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:43:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:43:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[18-Dec-2024 23:43:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:43:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 99
+[18-Dec-2024 23:43:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:43:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:43:50 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'calidad_id' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php:27
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php(27): mysqli->prepare('INSERT INTO not...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 27
+[18-Dec-2024 23:44:21 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:44:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:44:31 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'calidad_id' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php:27
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php(27): mysqli->prepare('INSERT INTO not...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 27
+[18-Dec-2024 23:47:48 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[18-Dec-2024 23:47:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nota_recepcion_agregar.php on line 82
+[19-Dec-2024 21:55:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:55:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:56:09 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[19-Dec-2024 21:56:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[19-Dec-2024 21:56:13 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:30 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:30 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:53 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:57 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:59 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:56:59 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:57:01 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:57:01 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos_editar_detalle.php on line 52
+[19-Dec-2024 21:57:09 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:57:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:57:59 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:57:59 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[19-Dec-2024 21:58:04 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[19-Dec-2024 21:58:04 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[19-Dec-2024 21:58:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[19-Dec-2024 21:58:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[19-Dec-2024 21:58:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 21:58:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 21:59:03 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[19-Dec-2024 21:59:03 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[19-Dec-2024 21:59:16 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php:33) in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 34
+[19-Dec-2024 21:59:22 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php:33) in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 34
+[19-Dec-2024 21:59:25 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[19-Dec-2024 21:59:25 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_editar.php on line 60
+[19-Dec-2024 21:59:29 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 21:59:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:13:20 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:13:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:15:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/header.php:1) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 61
+[19-Dec-2024 22:16:08 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:16:08 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:16:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:16:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:16:37 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:16:37 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:16:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:16:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:19:33 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:19:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:19:44 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[19-Dec-2024 22:19:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:19:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:19:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:19:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:20:03 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:20:03 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:21:42 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:21:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:21:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:21:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:21:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:21:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:22:01 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_editar.php on line 96
+[19-Dec-2024 22:22:01 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_editar.php on line 96
+[19-Dec-2024 22:24:00 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:24:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[19-Dec-2024 22:24:15 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:24:15 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[19-Dec-2024 22:28:23 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/header.php:1) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 61
+[19-Dec-2024 22:28:31 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:28:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:28:33 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:28:33 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:29:35 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.descripcion' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php:36
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php(36): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/productos.php on line 36
+[19-Dec-2024 22:29:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_gasto.php on line 49
+[19-Dec-2024 22:29:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/categorias_gasto.php on line 49
+[19-Dec-2024 22:29:48 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:29:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[19-Dec-2024 22:29:50 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:29:50 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[19-Dec-2024 22:30:42 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'producto_id' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php:68
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php(68): mysqli->prepare('\r\n        INSER...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 68
+[19-Dec-2024 22:30:48 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[19-Dec-2024 22:30:48 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[20-Dec-2024 19:06:43 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[20-Dec-2024 19:06:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[20-Dec-2024 19:06:51 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[20-Dec-2024 19:06:53 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[20-Dec-2024 19:06:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[22-Dec-2024 22:28:32 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[22-Dec-2024 22:28:32 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[22-Dec-2024 22:28:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[22-Dec-2024 22:28:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[22-Dec-2024 22:29:08 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[22-Dec-2024 22:29:08 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[22-Dec-2024 22:29:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[22-Dec-2024 22:29:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'total' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php:42
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php(42): mysqli->query('SELECT SUM(tota...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/resumen_financiero.php on line 42
+[22-Dec-2024 22:29:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[22-Dec-2024 22:29:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[22-Dec-2024 22:29:43 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[22-Dec-2024 22:29:45 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[22-Dec-2024 22:29:45 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[22-Dec-2024 22:46:08 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[22-Dec-2024 22:46:08 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_list.php on line 73
+[22-Dec-2024 22:46:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[22-Dec-2024 22:46:55 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[22-Dec-2024 22:47:00 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php on line 108
+[22-Dec-2024 22:47:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php on line 108
+[22-Dec-2024 22:48:07 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php:91
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php(91): mysqli->prepare('\r\n        INSER...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_agregar.php on line 91
+[22-Dec-2024 22:48:16 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[22-Dec-2024 22:48:32 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[22-Dec-2024 22:48:34 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[22-Dec-2024 22:48:38 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_recepcion.php on line 76
+[23-Dec-2024 23:56:28 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[23-Dec-2024 23:56:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[23-Dec-2024 23:57:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[23-Dec-2024 23:57:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[23-Dec-2024 23:57:39 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[23-Dec-2024 23:57:39 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas_agregar.php on line 85
+[23-Dec-2024 23:57:53 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[23-Dec-2024 23:57:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[24-Dec-2024 00:05:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[24-Dec-2024 11:34:16 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[24-Dec-2024 11:34:16 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[24-Dec-2024 11:34:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'n.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php:76
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php(76): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/nominas_huertas.php on line 76
+[24-Dec-2024 11:34:27 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[24-Dec-2024 11:34:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[24-Dec-2024 11:34:38 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[24-Dec-2024 11:34:38 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[24-Dec-2024 11:34:47 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[24-Dec-2024 11:34:55 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[24-Dec-2024 11:34:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[24-Dec-2024 11:35:00 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
+[24-Dec-2024 11:35:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[24-Dec-2024 11:35:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[26-Dec-2024 12:30:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[26-Dec-2024 12:30:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[26-Dec-2024 17:25:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[26-Dec-2024 17:25:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[26-Dec-2024 17:25:27 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[26-Dec-2024 17:25:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[26-Dec-2024 17:25:35 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_eliminar.php:19) in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_eliminar.php on line 25
+[26-Dec-2024 17:25:38 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_eliminar.php:19) in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_eliminar.php on line 25
+[26-Dec-2024 17:25:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[26-Dec-2024 17:25:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[27-Dec-2024 18:11:47 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[27-Dec-2024 18:11:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_overview.php on line 67
+[27-Dec-2024 18:12:27 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[27-Dec-2024 18:12:27 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/huertas_agregar.php on line 45
+[27-Dec-2024 18:12:42 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[27-Dec-2024 18:12:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[27-Dec-2024 18:13:26 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[27-Dec-2024 18:13:26 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[27-Dec-2024 22:22:59 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 84
+[27-Dec-2024 22:22:59 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[27-Dec-2024 22:26:32 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 84
+[27-Dec-2024 22:26:32 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 106
+[27-Dec-2024 22:26:32 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:26:32 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:26:42 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 84
+[27-Dec-2024 22:26:42 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 106
+[27-Dec-2024 22:26:42 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 12
+[27-Dec-2024 22:26:51 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 84
+[27-Dec-2024 22:26:51 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 106
+[27-Dec-2024 22:26:51 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:26:51 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:27:21 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 104
+[27-Dec-2024 22:27:21 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:27:21 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:31:02 America/Mexico_City] PHP Warning:  Undefined array key "role_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/sidebar.php on line 104
+[27-Dec-2024 22:31:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:31:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/puestos.php on line 43
+[27-Dec-2024 22:32:01 America/Mexico_City] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/login.php on line 10
+[27-Dec-2024 22:32:01 America/Mexico_City] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/login.php on line 10
+[27-Dec-2024 22:43:31 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:43:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:45:59 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:45:59 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:48:31 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:48:31 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_agregar.php on line 97
+[27-Dec-2024 22:48:35 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 22:48:35 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 22:48:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 74
+[27-Dec-2024 22:48:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/my_account.php on line 74
+[27-Dec-2024 22:48:44 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 66
+[27-Dec-2024 22:48:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 66
+[27-Dec-2024 22:52:19 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 66
+[27-Dec-2024 22:52:19 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 66
+[27-Dec-2024 22:55:15 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 69
+[27-Dec-2024 22:55:15 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 69
+[27-Dec-2024 22:55:53 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 69
+[27-Dec-2024 22:55:53 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_create.php on line 69
+[27-Dec-2024 22:56:44 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 22:56:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 22:56:58 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[27-Dec-2024 22:56:58 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[27-Dec-2024 22:57:03 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 22:57:03 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 22:58:40 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 22:58:40 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:05:03 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:05:03 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:05:05 America/Mexico_City] PHP Warning:  Undefined array key "employee_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php on line 9
+[27-Dec-2024 23:05:07 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:05:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:06:20 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:06:20 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:06:21 America/Mexico_City] PHP Warning:  Undefined array key "employee_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php on line 9
+[27-Dec-2024 23:06:23 America/Mexico_City] PHP Warning:  Undefined array key "employee_id" in /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php on line 9
+[27-Dec-2024 23:06:23 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'employee_id' cannot be null in /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php:19
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php(19): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/employee_time_clock.php on line 19
+[27-Dec-2024 23:06:25 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:06:25 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:09:54 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:09:54 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/user_list.php on line 57
+[27-Dec-2024 23:10:00 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[27-Dec-2024 23:10:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar.php on line 59
+[27-Dec-2024 23:10:06 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 23:10:06 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 23:12:18 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 23:12:18 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/empleados_editar_detalle.php on line 118
+[27-Dec-2024 23:30:47 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[27-Dec-2024 23:31:19 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'v.cantidad' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/ingresos.php on line 79
+[27-Dec-2024 23:39:02 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[27-Dec-2024 23:39:02 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/ventas.php on line 91
+[27-Dec-2024 23:39:18 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'g.fecha' in 'field list' in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php:79
+Stack trace:
+#0 /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php(79): mysqli->query('\r\n             ...')
+#1 {main}
+  thrown in /home2/ennobled/app.ennobleagency.com/crm_mango/gastos.php on line 79
+[06-Jan-2025 12:11:41 America/Mexico_City] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[06-Jan-2025 12:11:41 America/Mexico_City] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_agregar.php on line 71
+[06-Jan-2025 12:11:48 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php:11) in /home2/ennobled/app.ennobleagency.com/crm_mango/recepcion_resumen.php on line 17
